@@ -28,7 +28,7 @@ The original data come from this magnificent repo:
 
 https://github.com/astronexus/HYG-Database
 
-The mapping from stallar spectrum to RGB value comes from here:
+The mapping from stellar spectrum to RGB value comes from here:
 
 http://www.vendian.org/mncharity/dir3/starcolor/
 

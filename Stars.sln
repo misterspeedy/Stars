@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Stars", "Stars\Stars.fsproj", "{BE67631B-89A3-4DF2-BB55-9EFF0E75C519}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "StarsUI", "StarsUI\StarsUI.fsproj", "{30729065-0BE6-4B54-82F7-5263EDF7074F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE67631B-89A3-4DF2-BB55-9EFF0E75C519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE67631B-89A3-4DF2-BB55-9EFF0E75C519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE67631B-89A3-4DF2-BB55-9EFF0E75C519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE67631B-89A3-4DF2-BB55-9EFF0E75C519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30729065-0BE6-4B54-82F7-5263EDF7074F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30729065-0BE6-4B54-82F7-5263EDF7074F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30729065-0BE6-4B54-82F7-5263EDF7074F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30729065-0BE6-4B54-82F7-5263EDF7074F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

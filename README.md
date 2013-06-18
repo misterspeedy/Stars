@@ -42,6 +42,15 @@ Setup
 
 This demo needs a SQL Server database. To set up:
 
-- Open the file databasesetup.sql and change values in the first few lines to match your SQL Server setup.
+Either: 
+
+- Restore the SQL Server 2012 backup stars.bak
+
+Or:
+
+- Unzip and open the file databasesetup.sql and change values in the first few lines to match your SQL Server setup.
 - Run it using SQLCmd - eg. sqlcmd -S myserver -i databasesetup.sql or using Sql Server Management Studio
+
+Then:
+
 - If necessary, edit the connection string in StarsDatabase.fs to reference the location where the database was set up.

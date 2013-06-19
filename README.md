@@ -15,7 +15,7 @@ Limitations/Bugs
 
 Only displays stars, not planets etc.
 
-The demo assumes a rectangular viewport, so star locations near the pole will be increasingly distored.
+The demo assumes a rectangular viewport, so star locations near the pole will be increasingly distorted.
 
 The demo has no concept of wraparound, so panning will eventually take you to an empty void.
 
